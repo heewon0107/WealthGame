@@ -1,0 +1,421 @@
+[
+  {
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "username": "김민철",
+        "email": "user02@example.com",
+        "nickname": "김민철",
+        "password": "password123",
+        "age": 29,
+        "assets": "5000000",
+        "annual_income": "3000000",
+        "desired_amount": "2000000",
+        "desired_period": 12,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "username": "김세희",
+        "email": "user03@example.com",
+        "nickname": "김세희",
+        "password": "password123",
+        "age": 28,
+        "assets": "8000000",
+        "annual_income": "4000000",
+        "desired_amount": "3000000",
+        "desired_period": 24,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "username": "김지원",
+        "email": "user04@example.com",
+        "nickname": "김지원",
+        "password": "password123",
+        "age": 31,
+        "assets": "12000000",
+        "annual_income": "5000000",
+        "desired_amount": "4000000",
+        "desired_period": 36,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 5,
+    "fields": {
+        "username": "임남기",
+        "email": "user05@example.com",
+        "nickname": "임남기",
+        "password": "password123",
+        "age": 29,
+        "assets": "20000000",
+        "annual_income": "7000000",
+        "desired_amount": "5000000",
+        "desired_period": 24,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 6,
+    "fields": {
+        "username": "황학선",
+        "email": "user06@example.com",
+        "nickname": "황학선",
+        "password": "password123",
+        "age": 28,
+        "assets": "30000000",
+        "annual_income": "10000000",
+        "desired_amount": "7000000",
+        "desired_period": 24,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+        "username": "신우진",
+        "email": "user07@example.com",
+        "nickname": "신우진",
+        "password": "password123",
+        "age": 27,
+        "assets": "50000000",
+        "annual_income": "12000000",
+        "desired_amount": "10000000",
+        "desired_period": 24,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 8,
+    "fields": {
+        "username": "윤재은",
+        "email": "user08@example.com",
+        "nickname": "윤재은",
+        "password": "password123",
+        "age": 26,
+        "assets": "70000000",
+        "annual_income": "15000000",
+        "desired_amount": "12000000",
+        "desired_period": 36,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "username": "신희원",
+        "email": "user09@example.com",
+        "nickname": "신희원",
+        "password": "password123",
+        "age": 25,
+        "assets": "100000000",
+        "annual_income": "20000000",
+        "desired_amount": "15000000",
+        "desired_period": 12,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 10,
+    "fields": {
+        "username": "박찬미",
+        "email": "user10@example.com",
+        "nickname": "박찬미",
+        "password": "password123",
+        "age": 27,
+        "assets": "150000000",
+        "annual_income": "30000000",
+        "desired_amount": "20000000",
+        "desired_period": 12,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 11,
+    "fields": {
+        "username": "유한슬",
+        "email": "user11@example.com",
+        "nickname": "유한슬",
+        "password": "password123",
+        "age": 30,
+        "assets": "3500000",
+        "annual_income": "2500000",
+        "desired_amount": "1500000",
+        "desired_period": 12,
+        "tier": "이자샤낭꾼"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 12,
+    "fields": {
+        "username": "정수연",
+        "email": "user12@example.com",
+        "nickname": "정수연",
+        "password": "password123",
+        "age": 28,
+        "assets": "7000000",
+        "annual_income": "4000000",
+        "desired_amount": "3000000",
+        "desired_period": 12,
+        "tier": "화폐술사"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 13,
+    "fields": {
+        "username": "이지은",
+        "email": "user13@example.com",
+        "nickname": "이지은",
+        "password": "password123",
+        "age": 26,
+        "assets": "9000000",
+        "annual_income": "5000000",
+        "desired_amount": "4000000",
+        "desired_period": 12,
+        "tier": "건물주"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 14,
+    "fields": {
+        "username": "이정인",
+        "email": "user14@example.com",
+        "nickname": "이정인",
+        "password": "password123",
+        "age": 25,
+        "assets": "15000000",
+        "annual_income": "6000000",
+        "desired_amount": "5000000",
+        "desired_period": 12,
+        "tier": "집마스터"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 15,
+    "fields": {
+        "username": "윤희준",
+        "email": "user15@example.com",
+        "nickname": "윤희준",
+        "password": "password123",
+        "age": 28,
+        "assets": "18000000",
+        "annual_income": "7000000",
+        "desired_amount": "6000000",
+        "desired_period": 24,
+        "tier": "차트마스터"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 16,
+    "fields": {
+        "username": "권남희",
+        "email": "user16@example.com",
+        "nickname": "권남희",
+        "password": "password123",
+        "age": 24,
+        "assets": "25000000",
+        "annual_income": "8000000",
+        "desired_amount": "7000000",
+        "desired_period": 24,
+        "tier": "알거지"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 17,
+    "fields": {
+        "username": "김동해",
+        "email": "user17@example.com",
+        "nickname": "김동해",
+        "password": "password123",
+        "age": 27,
+        "assets": "35000000",
+        "annual_income": "10000000",
+        "desired_amount": "8000000",
+        "desired_period": 24,
+        "tier": "이자샤낭꾼"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 18,
+    "fields": {
+        "username": "한이경",
+        "email": "user18@example.com",
+        "nickname": "한이경",
+        "password": "password123",
+        "age": 27,
+        "assets": "45000000",
+        "annual_income": "12000000",
+        "desired_amount": "10000000",
+        "desired_period": 24,
+        "tier": "차트마스터"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 19,
+    "fields": {
+        "username": "강건준",
+        "email": "user19@example.com",
+        "nickname": "강건준",
+        "password": "password123",
+        "age": 28,
+        "assets": "50000000",
+        "annual_income": "15000000",
+        "desired_amount": "12000000",
+        "desired_period": 12,
+        "tier": "집마스터"
+    }
+},
+{
+  "model": "accounts.user",
+  "pk": 20,
+  "fields": {
+      "username": "박성욱",
+      "email": "user20@example.com",
+      "nickname": "박성욱",
+      "password": "password123",
+      "age": 27,
+      "assets": "65000000",
+      "annual_income": "18000000",
+      "desired_amount": "15000000",
+      "desired_period": 24,
+      "tier": "집마스터"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 21,
+  "fields": {
+      "username": "정승권",
+      "email": "user21@example.com",
+      "nickname": "정승권",
+      "password": "password123",
+      "age": 27,
+      "assets": "75000000",
+      "annual_income": "20000000",
+      "desired_amount": "16000000",
+      "desired_period": 24,
+      "tier": "화폐술사"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 22,
+  "fields": {
+      "username": "신민석",
+      "email": "user22@example.com",
+      "nickname": "신민석",
+      "password": "password123",
+      "age": 31,
+      "assets": "90000000",
+      "annual_income": "22000000",
+      "desired_amount": "18000000",
+      "desired_period": 36,
+      "tier": "차트마스터"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 23,
+  "fields": {
+      "username": "김혜빈",
+      "email": "user23@example.com",
+      "nickname": "김혜빈",
+      "password": "password123",
+      "age": 29,
+      "assets": "100000000",
+      "annual_income": "25000000",
+      "desired_amount": "20000000",
+      "desired_period": 36,
+      "tier": "차트마스터"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 24,
+  "fields": {
+      "username": "김서린",
+      "email": "user24@example.com",
+      "nickname": "김서린",
+      "password": "password123",
+      "age": 28,
+      "assets": "120000000",
+      "annual_income": "30000000",
+      "desired_amount": "25000000",
+      "desired_period": 36,
+      "tier": "건물주"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 25,
+  "fields": {
+      "username": "손재민",
+      "email": "user25@example.com",
+      "nickname": "손재민",
+      "password": "password123",
+      "age": 27,
+      "assets": "150000000",
+      "annual_income": "35000000",
+      "desired_amount": "30000000",
+      "desired_period": 36,
+      "tier": "집마스터"
+  }
+},
+{
+  "model": "accounts.user",
+  "pk": 26,
+  "fields": {
+      "username": "정재혁",
+      "email": "user26@example.com",
+      "nickname": "정재혁",
+      "password": "password123",
+      "age": 27,
+      "assets": "180000000",
+      "annual_income": "40000000",
+      "desired_amount": "35000000",
+      "desired_period": 36,
+      "tier": "이자샤낭꾼"
+  }
+},
+    {
+        "model": "accounts.user",
+        "pk": 27,
+        "fields": {
+        "username": "채우기용",
+        "email": "master@master.com",
+        "nickname": "master",
+        "password": "master123",
+        "age": 999,
+        "assets": "1000000000",
+        "annual_income": "100000000",
+        "desired_amount": "100000000",
+        "desired_period": 36,
+        "tier": "알거지"
+        }
+    }
+      
+      
+  ]
+  
