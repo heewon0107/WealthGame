@@ -70,7 +70,7 @@
 # 기획 배경
 
 ### ⏱ 프로젝트 기간
-- 2023/11/18 ~ 2023/11/26 (9일)
+- 2024/11/18 ~ 2024/11/26 (9일)
 
   <div style="flex: 2; min-width: 300px; background: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3>🎯 기획 목적</h3>
